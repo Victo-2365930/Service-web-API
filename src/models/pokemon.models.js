@@ -1,4 +1,4 @@
-import sql from "../config/pg_db.js";
+import db from "../config/db_pg.js";
 
 
 const pokemondInfoParId = (id) =>{
